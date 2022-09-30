@@ -1,4 +1,4 @@
-# Alphasians Community Support
+# The-GitHub-Training-Nest Community Support
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 
@@ -43,12 +43,8 @@ Please check out the [issue queue](https://github.com/Alphasians/support/issues)
 - **What is a GitHub Organization?** Essentially it's a way to group many repositories in an entity called an organization. An organization also allows us to group people who contribute and are a part of the community. Some examples would be: [Netflix](https://github.com/Netflix), [Facebook/Meta](https://github.com/facebook), and of course [EddieHub](https://github.com/EddieHubCommunity).
   - Learn more on [GitHub Docs](https://docs.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-organizations).
 
-- **How do I join the GitHub organization?** Raise an issue on this repository asking to ([invite you](https://github.com/Alphasians/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
-- **How do I set the membership public?**
-  - Navigate to our community page: <https://github.com/Alphasians>
-  - Click on the highlighted area:
+- **How do I join the GitHub organization?** Raise an issue on this repository asking to ([invite you](https://github.com/The-GitHub-Training-Nest/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)).
 
-  ![image](https://user-images.githubusercontent.com/53110238/140310956-bbfbd91c-5d16-469b-93f6-953cc2fae870.png)
 
   - Enter your username in the highlighted searchbar:
 
@@ -57,7 +53,3 @@ Please check out the [issue queue](https://github.com/Alphasians/support/issues)
   - Click `Private` (the default) and set it to `Public`
 
   ![image](https://user-images.githubusercontent.com/53110238/140311136-fe355147-d08d-4eaa-9b9e-f4bc496ce0d5.png)
-
-- **How do I keep my Git fork up to date?** Add a new remote called `upstream` targeting the original repository. Check out more information on [this issue](https://github.com/Alphasians/support/issues/94).
-- **What is DevRel?** Check out on [this YouTube video](https://www.youtube.com/watch?v=iUZerHctTB8&t=1534s).
-- **How do I get started with open source?** You can make your first pull request in this [repository](https://github.com/Alphasians/hacktoberfest-practice). Follow the instructions in the README, and don't forget – contributing to open source is not just about code – it's about collaboration, communication, and adding value. Don't be afraid to open an issue with a question :smiley:
